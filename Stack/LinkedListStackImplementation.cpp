@@ -81,8 +81,6 @@ int main()
     a.pop();
     a.push(6);
     a.push(7);
-    a.push(8);
-    a.push(9);
 
     a.print();
 
